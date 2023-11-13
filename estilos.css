@@ -1,0 +1,23 @@
+button{
+
+    --border: solid 1px blue;
+    padding: 10px;
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 20px;
+    color: blue;
+    background-color: white;
+    transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;
+}
+button:hover{
+    background-color: blue;
+    color: white;
+    transform: scale(1.2)
+}
+
+body{
+    background-color: rgb(26, 117, 117);
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

@@ -1,6 +1,6 @@
 button{
 
-    --border: solid 1px blue;
+    border: solid 1px blue;
     padding: 10px;
     margin: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -20,4 +20,8 @@ body{
 }
 h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img {
+    border: solid 2px rgb(5, 4, 85);
+    border-radius: 20px;
 }
